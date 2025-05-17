@@ -14,11 +14,11 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Dr Shashank Singh # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Blogging website # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
+description: >- # used by seo meta and the Atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://drshashanksingh.github.io/homepage"
 
 github:
-  username: github_username # change to your GitHub username
+  username: drshashanksingh # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
