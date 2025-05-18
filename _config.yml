@@ -11,8 +11,8 @@ paginate_path: /page/:nun/
 # Layout
 
 show_excerpts: true        # show article excerpts on the home page
-show_frame: false          # adds a grey frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+show_frame: true          # adds a grey frame to the site
+show_sidebar: true        # show a sidebar instead of the usual header
 show_title: true           # always show the side title
 
 
