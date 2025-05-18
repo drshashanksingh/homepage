@@ -3,7 +3,6 @@ title: " "
 layout: page
 ---
 
-## Dr Shashank Singh
 
 Hi, 
 
