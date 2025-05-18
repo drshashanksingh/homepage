@@ -28,7 +28,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "projects.md", icon: clipboard, title: "Projects"}
   - {file: "archive.html", icon: archive, title: "Archive"}
   - {file: "README.md", title: "About me", icon: address-card}
-  - {file: "blog.md", title: "Blog"}
+  - {file: "blog.md", title: "Blog", icon: file}
   - {file: "search.md", icon: search, title: "Search"}
   
   
