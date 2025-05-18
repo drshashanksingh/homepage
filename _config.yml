@@ -16,10 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.html"}
   - {title: "AboutMe", file: "README.md"}
   - {title: "Blog", file: "blog.md"}
-  - {file: "index.html"}
-
+  
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:sha2nk.singh@gmail.com"}
   - {title: Github, icon: github, url: "https://drshashanksingh.github.io/homepage"}
